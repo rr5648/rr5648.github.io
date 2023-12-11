@@ -3,8 +3,8 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"復原_禮物搭配_atlas_1", frames: [[0,0,899,1091],[901,0,899,1091]]},
-		{name:"復原_禮物搭配_atlas_2", frames: [[574,1093,134,89],[710,1093,134,89],[0,1093,141,124],[286,1093,94,141],[382,1093,94,141],[982,1093,107,108],[846,1093,134,89],[143,1093,141,124],[478,1093,94,141],[1091,1093,107,108],[1572,0,200,343],[1572,686,196,338],[1572,1026,196,326],[1572,345,200,339],[0,0,847,1091],[849,0,721,1091],[1774,345,200,339],[1770,1026,196,326],[1770,686,196,338],[1774,0,200,343]]}
+		{name:"禮物搭配_atlas_1", frames: [[0,0,899,1091],[901,0,899,1091]]},
+		{name:"禮物搭配_atlas_2", frames: [[574,1093,134,89],[710,1093,134,89],[0,1093,141,124],[286,1093,94,141],[382,1093,94,141],[982,1093,107,108],[846,1093,134,89],[143,1093,141,124],[478,1093,94,141],[1091,1093,107,108],[1572,0,200,343],[1572,686,196,338],[1572,1026,196,326],[1572,345,200,339],[0,0,847,1091],[849,0,721,1091],[1774,345,200,339],[1770,1026,196,326],[1770,686,196,338],[1774,0,200,343]]}
 ];
 
 
@@ -28,155 +28,155 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_27 = function() {
-	this.initialize(ss["復原_禮物搭配_atlas_2"]);
+(lib.CachedBmp_22 = function() {
+	this.initialize(ss["禮物搭配_atlas_2"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_26 = function() {
-	this.initialize(ss["復原_禮物搭配_atlas_2"]);
+(lib.CachedBmp_21 = function() {
+	this.initialize(ss["禮物搭配_atlas_2"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_24 = function() {
-	this.initialize(ss["復原_禮物搭配_atlas_2"]);
+(lib.CachedBmp_20 = function() {
+	this.initialize(ss["禮物搭配_atlas_2"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_18 = function() {
-	this.initialize(ss["復原_禮物搭配_atlas_2"]);
+(lib.CachedBmp_19 = function() {
+	this.initialize(ss["禮物搭配_atlas_2"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_17 = function() {
-	this.initialize(ss["復原_禮物搭配_atlas_2"]);
+(lib.CachedBmp_18 = function() {
+	this.initialize(ss["禮物搭配_atlas_2"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_16 = function() {
-	this.initialize(ss["復原_禮物搭配_atlas_2"]);
+(lib.CachedBmp_17 = function() {
+	this.initialize(ss["禮物搭配_atlas_2"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_15 = function() {
-	this.initialize(ss["復原_禮物搭配_atlas_2"]);
+(lib.CachedBmp_16 = function() {
+	this.initialize(ss["禮物搭配_atlas_2"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_14 = function() {
-	this.initialize(ss["復原_禮物搭配_atlas_2"]);
+(lib.CachedBmp_15 = function() {
+	this.initialize(ss["禮物搭配_atlas_2"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_13 = function() {
-	this.initialize(ss["復原_禮物搭配_atlas_2"]);
+(lib.CachedBmp_14 = function() {
+	this.initialize(ss["禮物搭配_atlas_2"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_12 = function() {
-	this.initialize(ss["復原_禮物搭配_atlas_2"]);
+(lib.CachedBmp_13 = function() {
+	this.initialize(ss["禮物搭配_atlas_2"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_25 = function() {
-	this.initialize(ss["復原_禮物搭配_atlas_2"]);
+(lib.CachedBmp_12 = function() {
+	this.initialize(ss["禮物搭配_atlas_2"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_23 = function() {
-	this.initialize(ss["復原_禮物搭配_atlas_2"]);
+(lib.CachedBmp_11 = function() {
+	this.initialize(ss["禮物搭配_atlas_2"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_10 = function() {
-	this.initialize(ss["復原_禮物搭配_atlas_2"]);
+	this.initialize(ss["禮物搭配_atlas_2"]);
 	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_9 = function() {
-	this.initialize(ss["復原_禮物搭配_atlas_2"]);
+	this.initialize(ss["禮物搭配_atlas_2"]);
 	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_8 = function() {
-	this.initialize(ss["復原_禮物搭配_atlas_2"]);
+	this.initialize(ss["禮物搭配_atlas_2"]);
 	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_7 = function() {
-	this.initialize(ss["復原_禮物搭配_atlas_2"]);
+	this.initialize(ss["禮物搭配_atlas_2"]);
 	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_6 = function() {
-	this.initialize(ss["復原_禮物搭配_atlas_1"]);
+	this.initialize(ss["禮物搭配_atlas_1"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_5 = function() {
-	this.initialize(ss["復原_禮物搭配_atlas_1"]);
+	this.initialize(ss["禮物搭配_atlas_1"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_4 = function() {
-	this.initialize(ss["復原_禮物搭配_atlas_2"]);
+	this.initialize(ss["禮物搭配_atlas_2"]);
 	this.gotoAndStop(16);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_3 = function() {
-	this.initialize(ss["復原_禮物搭配_atlas_2"]);
+	this.initialize(ss["禮物搭配_atlas_2"]);
 	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_2 = function() {
-	this.initialize(ss["復原_禮物搭配_atlas_2"]);
+	this.initialize(ss["禮物搭配_atlas_2"]);
 	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_1 = function() {
-	this.initialize(ss["復原_禮物搭配_atlas_2"]);
+	this.initialize(ss["禮物搭配_atlas_2"]);
 	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 // helper functions:
@@ -210,7 +210,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// 圖層_1
-	this.instance = new lib.CachedBmp_27();
+	this.instance = new lib.CachedBmp_22();
 	this.instance.setTransform(-33.4,-22.15,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -233,7 +233,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// 圖層_1
-	this.instance = new lib.CachedBmp_26();
+	this.instance = new lib.CachedBmp_21();
 	this.instance.setTransform(-33.4,-22.15,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -256,7 +256,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// 圖層_1
-	this.instance = new lib.CachedBmp_24();
+	this.instance = new lib.CachedBmp_20();
 	this.instance.setTransform(-35.15,-30.85,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -279,7 +279,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// 圖層_1
-	this.instance = new lib.CachedBmp_18();
+	this.instance = new lib.CachedBmp_19();
 	this.instance.setTransform(-23.55,-35.25,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -302,7 +302,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// 圖層_1
-	this.instance = new lib.CachedBmp_17();
+	this.instance = new lib.CachedBmp_18();
 	this.instance.setTransform(-23.55,-35.25,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -325,7 +325,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// 圖層_1
-	this.instance = new lib.CachedBmp_16();
+	this.instance = new lib.CachedBmp_17();
 	this.instance.setTransform(0,0,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -368,7 +368,7 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_1},{t:this.shape}]}).wait(60));
 
 	// doll04
-	this.instance_2 = new lib.CachedBmp_25();
+	this.instance_2 = new lib.CachedBmp_12();
 	this.instance_2.setTransform(102.35,0,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_2).wait(60));
@@ -408,7 +408,7 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_1},{t:this.shape}]}).wait(60));
 
 	// doll03
-	this.instance_1 = new lib.CachedBmp_23();
+	this.instance_1 = new lib.CachedBmp_11();
 	this.instance_1.setTransform(4.7,0,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_1).wait(60));
@@ -522,7 +522,7 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1).to({_off:false},0).wait(3));
 
 	// 圖層_1
-	this.instance_1 = new lib.CachedBmp_15();
+	this.instance_1 = new lib.CachedBmp_16();
 	this.instance_1.setTransform(0,0,0.5,0.5);
 
 	this.shape = new cjs.Shape();
@@ -560,7 +560,7 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1).to({_off:false},0).wait(3));
 
 	// 圖層_1
-	this.instance_1 = new lib.CachedBmp_14();
+	this.instance_1 = new lib.CachedBmp_15();
 	this.instance_1.setTransform(0,0,0.5,0.5);
 
 	this.shape = new cjs.Shape();
@@ -598,7 +598,7 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1).to({_off:false},0).wait(3));
 
 	// 圖層_1
-	this.instance_1 = new lib.CachedBmp_13();
+	this.instance_1 = new lib.CachedBmp_14();
 	this.instance_1.setTransform(0,0,0.5,0.5);
 
 	this.shape = new cjs.Shape();
@@ -636,7 +636,7 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1).to({_off:false},0).wait(3));
 
 	// 圖層_1
-	this.instance_1 = new lib.CachedBmp_12();
+	this.instance_1 = new lib.CachedBmp_13();
 	this.instance_1.setTransform(0,0,0.5,0.5);
 
 	this.shape = new cjs.Shape();
@@ -656,7 +656,7 @@ p.nominalBounds = new cjs.Rectangle(-18.8,-633.6,474.8,701.3000000000001);
 
 
 // stage content:
-(lib.復原_禮物搭配 = function(mode,startPosition,loop,reversed) {
+(lib.禮物搭配 = function(mode,startPosition,loop,reversed) {
 if (loop == null) { loop = true; }
 if (reversed == null) { reversed = false; }
 	var props = new Object();
@@ -756,8 +756,8 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/復原_禮物搭配_atlas_1.png?1702303117859", id:"復原_禮物搭配_atlas_1"},
-		{src:"images/復原_禮物搭配_atlas_2.png?1702303117860", id:"復原_禮物搭配_atlas_2"}
+		{src:"images/禮物搭配_atlas_1.png?1702303520233", id:"禮物搭配_atlas_1"},
+		{src:"images/禮物搭配_atlas_2.png?1702303520233", id:"禮物搭配_atlas_2"}
 	],
 	preloads: []
 };
